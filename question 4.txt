@@ -1,0 +1,13 @@
+Question: Write short note on tag and element with  example ?
+Ans: There are various tags in html whuch can be used for various purpose .Some important html tags -:
+  1. Heading tag : heading tags are used to display headings in html 
+    example : <h1> This is heading</h1>
+  2. pragraph tag : paragraph tag use to write paragraph .
+     example : <p> This is paragraph </p>
+  3.  Anchor tag : anchor tag use to add links in existing html page 
+      example: <a href="www.amaon.in"> Amazon </a>
+  4. Img tag : Img tag used to add images in existing html page. 
+       example : <img serc="photos.jpg">
+   
+   element in html: Everything from staring to ending of tag in html is element .Example (<h1> This is heading </h1> ) It is complete a element.
+      

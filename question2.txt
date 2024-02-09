@@ -1,0 +1,9 @@
+question : Explain the purpose of comment in html an provide an example how to use comment in html?
+
+Ans :As we know that comment are not display on browser so we use comment to explain the code ,to give remark which  we can we use later to remind something and if some other devloper which work on code so he can understand easily
+  
+     To use comment :
+      syntex:
+       <!--   -->
+    example :
+        <!--  This is  comment  -->

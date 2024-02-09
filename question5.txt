@@ -1,0 +1,2 @@
+question: What is doctype declartation in HTML?
+Ans: It is infromation to the browser that what document type to expect .In html 5 it declare as <!DOCTYPE html>
